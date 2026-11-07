@@ -139,6 +139,15 @@ footer {
 
 video {
     width: 70%;
+    max-height: 400px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.videoText {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 40px;
 }
 
 .imageMainPage {
